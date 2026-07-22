@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mago Elm</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="center">Junior Full Stack Developer from Germany
 Java | React | Node.js | MongoDB | SQL | Web Applications</h3>
 <img align="right" float="right" alt="Coding" width="200" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
