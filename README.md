@@ -1,18 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mago Elm</h1>
-<h3 align="center">A passionate Web-Developer from Germany</h3>
+<h3 align="center">Junior Full Stack Developer from Germany
+Java | React | Node.js | MongoDB | SQL | Web Applications</h3>
 <img align="right" float="right" alt="Coding" width="200" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiinyflakes&label=Profile%20views&color=0e75b6&style=flat" alt="shiinyflakes" /> </p>
-
-- 🔭 I’m currently working on **application development 💻**
-
-- 🌱 I’m currently learning **Java and SQL 💯**
-
-- 👨‍💻 All of my projects are available at [Github](Github)
-
-- 💬 Ask me about **Frontend Design 🤖**
-
-- ⚡ Fun fact ****There's a 50% chance that two people will share a birthday in a group of 23 people****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
