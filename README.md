@@ -4,6 +4,18 @@ Java | React | Node.js | MongoDB | SQL | Web Applications</h3>
 <img align="right" float="right" alt="Coding" width="200" height="150" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shiinyflakes&label=Profile%20views&color=0e75b6&style=flat" alt="shiinyflakes" /> </p>
+Skills:
+- Java / Java Swing
+- JavaScript
+- React
+- Node.js
+- MongoDB
+- SQL
+
+🚀 Projects:
+- Time Tracking Application (Java)
+- MERN Full Stack Applications
+- Responsive Web Applications
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
